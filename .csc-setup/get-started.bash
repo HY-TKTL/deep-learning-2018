@@ -10,5 +10,5 @@ git clone https://github.com/HY-TKTL/deep-learning-2018.git exercises
 
 rmdir work
 rm get-started.bash
-pip install imageio h5py
+pip install imageio h5py tqdm
 pip install scikit-learn
