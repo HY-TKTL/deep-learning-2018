@@ -12,3 +12,4 @@ rmdir work
 rm get-started.bash
 pip install imageio h5py tqdm
 pip install scikit-learn
+pip install torchtext
